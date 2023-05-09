@@ -1,2 +1,2 @@
 ﻿# Sorting_Algorithms
-Apenas um treino com algortmos de Ordenação.
+Apenas um treino com algoritmos de Ordenação.
